@@ -1,0 +1,15 @@
+{
+  "name": "fox-blocks-cover-group",
+  "version": "1.0.0",
+  "description": "Fox Block Cover Group",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Sami Keijonen",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "3.3.0"
+  }
+}
